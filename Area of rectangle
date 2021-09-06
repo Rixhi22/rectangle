@@ -1,0 +1,9 @@
+public class Main
+{
+	public static void main(String[] args) {
+		int length= 1;
+        int width=1;
+        int area=length*width;
+        System.out.println( "Area Of Rectangle="+area);
+	}
+}
